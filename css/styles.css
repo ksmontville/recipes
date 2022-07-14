@@ -1,0 +1,51 @@
+.recipe {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home-page {
+    color: purple;
+}
+
+
+.links {
+    color: red;
+}
+
+.link {
+    color: mediumspringgreen;
+}
+
+.page {
+    color: green;
+
+}
+
+.p {
+    color: aquamarine;
+}
+
+.description {
+    color: blue;
+
+}
+
+.ingredients {
+    color: yellow;
+}
+
+.ingredients.list {
+    color: pink;
+}
+
+.steps {
+    color: orange;
+}
+
+.steps.list {
+    color: violet;
+}
+
+.img {
+    width: 400px;
+    height: auto;
+}
